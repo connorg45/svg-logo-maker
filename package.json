@@ -9,7 +9,7 @@
     "private": true,
     "keywords": [],
     "author": "",
-    "license": "UNLICENSED",
+    "license": "MIT",
     "dependencies": {
       "inquirer": "^8.2.4"
     },
